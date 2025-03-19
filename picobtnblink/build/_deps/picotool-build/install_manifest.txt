@@ -1,0 +1,5 @@
+/home/lufsen/ws/school/picoschool/picobtnblink/build/_deps/picotool/picotool
+/home/lufsen/ws/school/picoschool/picobtnblink/build/_deps/picotool/picotoolTargets.cmake
+/home/lufsen/ws/school/picoschool/picobtnblink/build/_deps/picotool/picotoolTargets-release.cmake
+/home/lufsen/ws/school/picoschool/picobtnblink/build/_deps/picotool/picotoolConfig.cmake
+/home/lufsen/ws/school/picoschool/picobtnblink/build/_deps/picotool/picotoolConfigVersion.cmake
