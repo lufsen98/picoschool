@@ -1,2 +1,2 @@
-/usr/bin/ar qc liberrors.a CMakeFiles/errors.dir/errors.cpp.o
-/usr/bin/ranlib liberrors.a
+/Library/Developer/CommandLineTools/usr/bin/ar qc liberrors.a CMakeFiles/errors.dir/errors.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liberrors.a

@@ -1,3 +1,3 @@
-/home/lufsen/ws/school/picoschool/toggleled/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
-/home/lufsen/ws/school/picoschool/toggleled/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
-/home/lufsen/ws/school/picoschool/toggleled/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir
+/Users/ludvignorin/ws/school/picoschool/toggleled/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
+/Users/ludvignorin/ws/school/picoschool/toggleled/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
+/Users/ludvignorin/ws/school/picoschool/toggleled/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir
