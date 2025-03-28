@@ -1,0 +1,5 @@
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/_deps/picotool/picotool
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/_deps/picotool/picotoolTargets.cmake
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/_deps/picotool/picotoolTargets-release.cmake
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/_deps/picotool/picotoolConfig.cmake
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/_deps/picotool/picotoolConfigVersion.cmake

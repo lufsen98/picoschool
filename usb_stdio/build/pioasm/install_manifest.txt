@@ -1,0 +1,5 @@
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/pioasm-install/pioasm/pioasm
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/pioasm-install/pioasm/pioasmTargets.cmake
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/pioasm-install/pioasm/pioasmConfig.cmake
+/Users/ludvignorin/ws/school/picoschool/usb_stdio/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

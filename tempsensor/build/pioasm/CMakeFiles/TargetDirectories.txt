@@ -1,0 +1,7 @@
+/Users/ludvignorin/ws/school/picoschool/tempsensor/build/pioasm/CMakeFiles/pioasm.dir
+/Users/ludvignorin/ws/school/picoschool/tempsensor/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/ludvignorin/ws/school/picoschool/tempsensor/build/pioasm/CMakeFiles/rebuild_cache.dir
+/Users/ludvignorin/ws/school/picoschool/tempsensor/build/pioasm/CMakeFiles/list_install_components.dir
+/Users/ludvignorin/ws/school/picoschool/tempsensor/build/pioasm/CMakeFiles/install.dir
+/Users/ludvignorin/ws/school/picoschool/tempsensor/build/pioasm/CMakeFiles/install/local.dir
+/Users/ludvignorin/ws/school/picoschool/tempsensor/build/pioasm/CMakeFiles/install/strip.dir

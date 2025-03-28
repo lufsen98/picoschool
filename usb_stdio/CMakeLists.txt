@@ -17,7 +17,7 @@ set(CMAKE_CXX_STANDARD 17)
 pico_sdk_init()
 
 # Create the executable
-add_executable(${PROJECT_NAME} main.c)
+add_executable(${PROJECT_NAME} main.cpp)
 
 # Enable USB and UART for the executable
 pico_enable_stdio_usb(${PROJECT_NAME} 1)

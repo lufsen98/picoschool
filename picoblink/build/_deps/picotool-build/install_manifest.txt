@@ -1,5 +1,5 @@
-/home/lufsen/ws/school/picoschool/picoblink/build/_deps/picotool/picotool
-/home/lufsen/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolTargets.cmake
-/home/lufsen/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolTargets-release.cmake
-/home/lufsen/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolConfig.cmake
-/home/lufsen/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolConfigVersion.cmake
+/Users/ludvignorin/ws/school/picoschool/picoblink/build/_deps/picotool/picotool
+/Users/ludvignorin/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolTargets.cmake
+/Users/ludvignorin/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolTargets-release.cmake
+/Users/ludvignorin/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolConfig.cmake
+/Users/ludvignorin/ws/school/picoschool/picoblink/build/_deps/picotool/picotoolConfigVersion.cmake

@@ -1,15 +1,17 @@
-#include "pico/stdlib.h"
+#include <stdio.h>
+#include <pico/stdlib.h>
 
-int main(){
-    stdio_usb_init();
+int main() {
+    stdio_init_all();
 
-    puts("Hello, pico\n");
+    sleep_ms(5000);
 
-
-    printf("Hello, computer\n");
-
+    while (true) {
+        char input[100];
+        if (scanf("%99s", input) == 1) {
+            printf("Received: %s\n", input); // Echo the input back to the host
+        }
+    }
 
     return 0;
 }
-    
-
