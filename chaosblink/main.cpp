@@ -29,6 +29,7 @@ int main() {
         uint random_index = get_rand_32();
         gpio_put(led_lights[random_index%11],1);
         sleep_ms(10);
+        random_index = get_rand_32();
         gpio_put(led_lights[random_index%11],0);
         sleep_ms(10);
     }
