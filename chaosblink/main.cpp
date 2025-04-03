@@ -11,7 +11,7 @@
 #define LED8 8
 #define LED9 7
 #define LED10 6
-
+#define NUM_OF_LEDS 11 
 //blink 1 led each time
 //blink several lights at the same time. bitwise
 int main() {
@@ -26,11 +26,11 @@ int main() {
    
 
     while(true) {
-        uint random_index = get_rand_32();
-        gpio_put(led_lights[random_index%11],1);
+        uint random_index = get_rand_32()%NUM_OF_LEDS;
+        gpio_put(led_lights[random_index],1);
         sleep_ms(10);
-        random_index = get_rand_32();
-        gpio_put(led_lights[random_index%11],0);
+        random_index = get_rand_32()%NUM_OF_LEDS;
+        gpio_put(led_lights[random_index], 0);
         sleep_ms(10);
     }
 }
