@@ -4175,91 +4175,91 @@ LOAD linker stubs
  .debug_abbrev  0x00008ef7      0x4ff CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_rand/rand.c.o
 
 .debug_loclists
-                0x00000000    0x1ba9c
+                0x00000000    0x1baa4
  .debug_loclists
-                0x00000000       0xc9 CMakeFiles/chaosblink.dir/main.cpp.o
+                0x00000000       0xd1 CMakeFiles/chaosblink.dir/main.cpp.o
  .debug_loclists
-                0x000000c9     0x1a03 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.o
+                0x000000d1     0x1a03 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.o
  .debug_loclists
-                0x00001acc       0x53 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2040/pico_platform/platform.c.o
+                0x00001ad4       0x53 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2040/pico_platform/platform.c.o
  .debug_loclists
-                0x00001b1f      0x36e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/hardware_claim/claim.c.o
+                0x00001b27      0x36e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/hardware_claim/claim.c.o
  .debug_loclists
-                0x00001e8d       0xf1 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o
+                0x00001e95       0xf1 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o
  .debug_loclists
-                0x00001f7e       0x7d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+                0x00001f86       0x7d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
  .debug_loclists
-                0x00001ffb     0x11b6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o
+                0x00002003     0x11b6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o
  .debug_loclists
-                0x000031b1       0x41 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/lock_core.c.o
+                0x000031b9       0x41 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/lock_core.c.o
  .debug_loclists
-                0x000031f2      0xafa CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/mutex.c.o
+                0x000031fa      0xafa CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/mutex.c.o
  .debug_loclists
-                0x00003cec       0xb6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/critical_section.c.o
+                0x00003cf4       0xb6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/critical_section.c.o
  .debug_loclists
-                0x00003da2     0x24e9 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_time/time.c.o
+                0x00003daa     0x24e9 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_time/time.c.o
  .debug_loclists
-                0x0000628b     0x1a0c CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o
+                0x00006293     0x1a0c CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o
  .debug_loclists
-                0x00007c97      0xc90 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o
+                0x00007c9f      0xc90 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o
  .debug_loclists
-                0x00008927     0x2aca CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o
+                0x0000892f     0x2aca CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o
  .debug_loclists
-                0x0000b3f1      0x1e0 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o
+                0x0000b3f9      0x1e0 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o
  .debug_loclists
-                0x0000b5d1      0x532 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o
+                0x0000b5d9      0x532 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o
  .debug_loclists
-                0x0000bb03       0x47 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o
+                0x0000bb0b       0x47 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o
  .debug_loclists
-                0x0000bb4a      0x399 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o
+                0x0000bb52      0x399 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o
  .debug_loclists
-                0x0000bee3       0x48 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o
+                0x0000beeb       0x48 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o
  .debug_loclists
-                0x0000bf2b       0x7e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o
+                0x0000bf33       0x7e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o
  .debug_loclists
-                0x0000bfa9       0xba CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o
+                0x0000bfb1       0xba CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o
  .debug_loclists
-                0x0000c063       0x74 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+                0x0000c06b       0x74 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
  .debug_loclists
-                0x0000c0d7       0x35 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+                0x0000c0df       0x35 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
  .debug_loclists
-                0x0000c10c       0x4e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+                0x0000c114       0x4e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
  .debug_loclists
-                0x0000c15a     0x2f65 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o
+                0x0000c162     0x2f65 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o
  .debug_loclists
-                0x0000f0bf      0x431 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+                0x0000f0c7      0x431 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o
  .debug_loclists
-                0x0000f4f0      0xeb2 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o
+                0x0000f4f8      0xeb2 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o
  .debug_loclists
-                0x000103a2      0x754 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
+                0x000103aa      0x754 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
  .debug_loclists
-                0x00010af6      0x2d3 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.o
+                0x00010afe      0x2d3 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.o
  .debug_loclists
-                0x00010dc9      0x7cd CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
+                0x00010dd1      0x7cd CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
  .debug_loclists
-                0x00011596       0xed CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
+                0x0001159e       0xed CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
  .debug_loclists
-                0x00011683      0x3d5 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
+                0x0001168b      0x3d5 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
  .debug_loclists
-                0x00011a58      0x8c5 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
+                0x00011a60      0x8c5 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
  .debug_loclists
-                0x0001231d     0x1c77 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
+                0x00012325     0x1c77 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
  .debug_loclists
-                0x00013f94      0x734 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
+                0x00013f9c      0x734 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
  .debug_loclists
-                0x000146c8     0x2258 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd.c.o
+                0x000146d0     0x2258 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd.c.o
  .debug_loclists
-                0x00016920      0x43b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd_control.c.o
+                0x00016928      0x43b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd_control.c.o
  .debug_loclists
-                0x00016d5b      0xd50 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.o
+                0x00016d63      0xd50 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.o
  .debug_loclists
-                0x00017aab      0x7c2 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.o
+                0x00017ab3      0x7c2 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.o
  .debug_loclists
-                0x0001826d      0xfa4 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/tusb.c.o
+                0x00018275      0xfa4 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/tusb.c.o
  .debug_loclists
-                0x00019211     0x201c CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.o
+                0x00019219     0x201c CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.o
  .debug_loclists
-                0x0001b22d      0x86f CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_rand/rand.c.o
+                0x0001b235      0x86f CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_rand/rand.c.o
 
 .debug_aranges  0x00000000     0x1680
  .debug_aranges
@@ -4468,59 +4468,59 @@ LOAD linker stubs
  .debug_rnglists
                 0x00004715      0x204 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_rand/rand.c.o
 
-.debug_line     0x00000000    0x25647
- .debug_line    0x00000000      0x534 CMakeFiles/chaosblink.dir/main.cpp.o
- .debug_line    0x00000534     0x1c84 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_line    0x000021b8      0x264 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2040/pico_platform/platform.c.o
- .debug_line    0x0000241c      0x299 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_line    0x000026b5      0x919 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/hardware_claim/claim.c.o
- .debug_line    0x00002fce      0x4cc CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o
- .debug_line    0x0000349a      0x3b8 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_line    0x00003852     0x176f CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o
- .debug_line    0x00004fc1      0x2e3 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/lock_core.c.o
- .debug_line    0x000052a4     0x1af1 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/mutex.c.o
- .debug_line    0x00006d95      0x413 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/critical_section.c.o
- .debug_line    0x000071a8     0x30c8 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_time/time.c.o
- .debug_line    0x0000a270     0x1d0a CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o
- .debug_line    0x0000bf7a      0xf93 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o
- .debug_line    0x0000cf0d     0x1ed4 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_line    0x0000ede1      0x4f6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o
- .debug_line    0x0000f2d7      0x7ae CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o
- .debug_line    0x0000fa85      0x342 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_line    0x0000fdc7      0x48e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_line    0x00010255      0x34b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_line    0x000105a0      0x31b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o
- .debug_line    0x000108bb      0x538 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_line    0x00010df3      0x553 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_line    0x00011346      0x107 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_line    0x0001144d      0x2a9 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_line    0x000116f6      0x44d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_line    0x00011b43      0x578 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_line    0x000120bb       0x5d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_line    0x00012118       0x61 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_line    0x00012179      0x3c6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_line    0x0001253f      0x434 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_line    0x00012973       0x94 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_line    0x00012a07      0x1fb CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_line    0x00012c02     0x1ba7 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o
- .debug_line    0x000147a9       0xa5 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o
- .debug_line    0x0001484e      0x867 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_line    0x000150b5     0x153b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o
- .debug_line    0x000165f0      0xe0a CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
- .debug_line    0x000173fa      0x51d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.o
- .debug_line    0x00017917     0x11ec CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
- .debug_line    0x00018b03      0x3bb CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
- .debug_line    0x00018ebe      0x672 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
- .debug_line    0x00019530      0xb55 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
- .debug_line    0x0001a085     0x1e9b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
- .debug_line    0x0001bf20      0xcd1 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
- .debug_line    0x0001cbf1     0x28fd CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd.c.o
- .debug_line    0x0001f4ee      0x702 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd_control.c.o
- .debug_line    0x0001fbf0     0x1137 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.o
- .debug_line    0x00020d27      0xb51 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.o
- .debug_line    0x00021878     0x129f CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/tusb.c.o
- .debug_line    0x00022b17     0x1aeb CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.o
- .debug_line    0x00024602     0x1045 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_rand/rand.c.o
+.debug_line     0x00000000    0x2564f
+ .debug_line    0x00000000      0x53c CMakeFiles/chaosblink.dir/main.cpp.o
+ .debug_line    0x0000053c     0x1c84 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_line    0x000021c0      0x264 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2040/pico_platform/platform.c.o
+ .debug_line    0x00002424      0x299 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_line    0x000026bd      0x919 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/hardware_claim/claim.c.o
+ .debug_line    0x00002fd6      0x4cc CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync/sync.c.o
+ .debug_line    0x000034a2      0x3b8 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_line    0x0000385a     0x176f CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_irq/irq.c.o
+ .debug_line    0x00004fc9      0x2e3 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/lock_core.c.o
+ .debug_line    0x000052ac     0x1af1 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/mutex.c.o
+ .debug_line    0x00006d9d      0x413 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_sync/critical_section.c.o
+ .debug_line    0x000071b0     0x30c8 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/common/pico_time/time.c.o
+ .debug_line    0x0000a278     0x1d0a CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_timer/timer.c.o
+ .debug_line    0x0000bf82      0xf93 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_uart/uart.c.o
+ .debug_line    0x0000cf15     0x1ed4 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_line    0x0000ede9      0x4f6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_pll/pll.c.o
+ .debug_line    0x0000f2df      0x7ae CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.o
+ .debug_line    0x0000fa8d      0x342 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_line    0x0000fdcf      0x48e CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_line    0x0001025d      0x34b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_line    0x000105a8      0x31b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_line    0x000108c3      0x538 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_line    0x00010dfb      0x553 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_line    0x0001134e      0x107 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_line    0x00011455      0x2a9 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_line    0x000116fe      0x44d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_line    0x00011b4b      0x578 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_line    0x000120c3       0x5d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_line    0x00012120       0x61 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_line    0x00012181      0x3c6 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_line    0x00012547      0x434 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_line    0x0001297b       0x94 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_line    0x00012a0f      0x1fb CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_line    0x00012c0a     0x1ba7 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_printf/printf.c.o
+ .debug_line    0x000147b1       0xa5 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_line    0x00014856      0x867 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_line    0x000150bd     0x153b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio/stdio.c.o
+ .debug_line    0x000165f8      0xe0a CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
+ .debug_line    0x00017402      0x51d CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.o
+ .debug_line    0x0001791f     0x11ec CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
+ .debug_line    0x00018b0b      0x3bb CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
+ .debug_line    0x00018ec6      0x672 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.o
+ .debug_line    0x00019538      0xb55 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_flash/flash.c.o
+ .debug_line    0x0001a08d     0x1e9b CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
+ .debug_line    0x0001bf28      0xcd1 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
+ .debug_line    0x0001cbf9     0x28fd CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd.c.o
+ .debug_line    0x0001f4f6      0x702 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/device/usbd_control.c.o
+ .debug_line    0x0001fbf8     0x1137 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.o
+ .debug_line    0x00020d2f      0xb51 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.o
+ .debug_line    0x00021880     0x129f CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/tusb.c.o
+ .debug_line    0x00022b1f     0x1aeb CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.o
+ .debug_line    0x0002460a     0x1045 CMakeFiles/chaosblink.dir/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_rand/rand.c.o
 
 .debug_str      0x00000000     0x91f7
  .debug_str     0x00000000     0x91f7 CMakeFiles/chaosblink.dir/main.cpp.o

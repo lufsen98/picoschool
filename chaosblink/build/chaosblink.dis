@@ -39,19 +39,19 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  17 .debug_abbrev 000093f6  00000000  00000000  0003d02f  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 18 .debug_loclists 0001ba9c  00000000  00000000  00046425  2**0
+ 18 .debug_loclists 0001baa4  00000000  00000000  00046425  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .debug_aranges 00001680  00000000  00000000  00061ec8  2**3
+ 19 .debug_aranges 00001680  00000000  00000000  00061ed0  2**3
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 20 .debug_rnglists 00004919  00000000  00000000  00063548  2**0
+ 20 .debug_rnglists 00004919  00000000  00000000  00063550  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 21 .debug_line   00025647  00000000  00000000  00067e61  2**0
+ 21 .debug_line   0002564f  00000000  00000000  00067e69  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 22 .debug_str    000091f7  00000000  00000000  0008d4a8  2**0
+ 22 .debug_str    000091f7  00000000  00000000  0008d4b8  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 23 .debug_frame  00003160  00000000  00000000  000966a0  2**2
+ 23 .debug_frame  00003160  00000000  00000000  000966b0  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 24 .debug_line_str 00000350  00000000  00000000  00099800  2**0
+ 24 .debug_line_str 00000350  00000000  00000000  00099810  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/chaosblink.elf:     file format elf32-littlearm
