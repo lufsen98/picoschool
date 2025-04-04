@@ -1,8 +1,8 @@
 lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesni.c.o: \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/aesni.c \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/aesni.c \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \
@@ -42,10 +42,10 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesni.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_intmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aesni.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aesni.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types.h \

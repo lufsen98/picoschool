@@ -1,8 +1,8 @@
 lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy.c.o: \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/entropy.c \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/entropy.c \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \
@@ -42,11 +42,11 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_intmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy_poll.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy_poll.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types.h \
@@ -65,8 +65,8 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_size_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_timespec.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/string.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_string.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_rsize_t.h \
@@ -85,7 +85,7 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_ctermid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_off_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_stdio.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdlib.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdlib.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/wait.h \

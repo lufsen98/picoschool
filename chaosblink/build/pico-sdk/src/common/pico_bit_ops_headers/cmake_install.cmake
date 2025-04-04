@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ludvignorin/ws/pico-sdk/src/common/pico_bit_ops_headers
+# Install script for directory: /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_bit_ops_headers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

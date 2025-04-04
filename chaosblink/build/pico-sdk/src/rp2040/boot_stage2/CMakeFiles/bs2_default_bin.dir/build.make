@@ -89,6 +89,6 @@ pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/clean:
 .PHONY : pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/clean
 
 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/depend:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink /Users/ludvignorin/ws/pico-sdk/src/rp2040/boot_stage2 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink /Users/ludvignorin/ws/libs/pico-sdk/src/rp2040/boot_stage2 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin.dir/depend
 

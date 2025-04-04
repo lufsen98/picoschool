@@ -349,7 +349,7 @@ Mbed TLS_BINARY_DIR:STATIC=/Users/ludvignorin/ws/edu-ws/school/embedded_edu/pico
 Mbed TLS_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-Mbed TLS_SOURCE_DIR:STATIC=/Users/ludvignorin/ws/pico-sdk/lib/mbedtls
+Mbed TLS_SOURCE_DIR:STATIC=/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls
 
 //No help, variable specified on the command line.
 PICOTOOL_FLAT_INSTALL:UNINITIALIZED=1
@@ -358,7 +358,7 @@ PICOTOOL_FLAT_INSTALL:UNINITIALIZED=1
 PICOTOOL_NO_LIBUSB:UNINITIALIZED=1
 
 //No help, variable specified on the command line.
-PICO_SDK_PATH:FILEPATH=/Users/ludvignorin/ws/pico-sdk
+PICO_SDK_PATH:FILEPATH=/Users/ludvignorin/ws/libs/pico-sdk
 
 //Allow unsafe builds. These builds ARE NOT SECURE.
 UNSAFE_BUILD:BOOL=OFF

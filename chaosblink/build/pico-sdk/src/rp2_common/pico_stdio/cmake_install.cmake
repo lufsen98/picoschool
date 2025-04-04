@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio
+# Install script for directory: /Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/pico_stdio
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

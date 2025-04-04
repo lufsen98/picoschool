@@ -1,8 +1,8 @@
 lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecjpake.c.o: \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ecjpake.c \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ecjpake.c \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \

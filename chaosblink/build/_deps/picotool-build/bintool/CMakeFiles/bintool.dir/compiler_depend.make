@@ -1047,24 +1047,24 @@ bintool/CMakeFiles/bintool.dir/bintool.cpp.o: /Users/ludvignorin/ws/edu-ws/schoo
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf_file.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors/errors.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h
 
 bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/mbedtls_wrapper.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/Availability.h \
@@ -1180,22 +1180,22 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h
 
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:
@@ -1204,17 +1204,23 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/mbedtls_wrapper.c:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/error.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
 
 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf_file.h:
 
@@ -1364,6 +1370,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/machine/types.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/machine/limits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/machine/endian.h:
@@ -1371,8 +1379,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/machine/_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/mach/machine/_structs.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/locale.h:
 
@@ -1419,6 +1425,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/stddef.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/sstream:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/ratio:
 
@@ -1529,6 +1537,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/underlying_type.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_contains.h:
 
@@ -1692,8 +1702,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/conditional.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_next_permutation.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/pstl_for_each.h:
@@ -1802,8 +1810,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__random/discard_block_engine.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_min.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__iterator/back_insert_iterator.h:
@@ -1882,6 +1888,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/format_arg_store.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
@@ -1921,8 +1929,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
 
@@ -2198,6 +2204,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__functional/mem_fun_ref.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_signed_integer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__functional/is_transparent.h:
@@ -2248,8 +2256,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_pointer.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_scoped_enum.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_integral.h:
@@ -2299,8 +2305,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__system_error/error_condition.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/align.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__filesystem/perms.h:
 
@@ -2534,8 +2538,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/cxx_atomic_impl.h:
@@ -2557,6 +2559,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/atomic_lock_free.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/pstl_rotate_copy.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/tuple:
 
@@ -2650,8 +2654,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/search_n.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/stdio.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__math/trigonometric_functions.h:
@@ -2676,17 +2678,15 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_upper_bound.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_starts_with.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/buffer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/fence.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_sort.h:
 
@@ -2906,8 +2906,6 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_partial_sort.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_find_end.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
@@ -3002,11 +3000,11 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__concepts/invocable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_signed.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_minmax.h:
 
@@ -3265,6 +3263,8 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o: /Users/ludvignorin/ws/edu-ws
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_member_object_pointer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__ranges/data.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
 

@@ -217,77 +217,77 @@ lib/fast:
 	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/lib.dir/build.make lib/mbedtls/library/CMakeFiles/lib.dir/build
 .PHONY : lib/fast
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.o: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.o
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.o: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.o
 
 # target to build an object file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.o
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.i: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.i
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.i: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.i
 
 # target to preprocess a source file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.i
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.s: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.s
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.s: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.s
 
 # target to generate assembly for a file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.c.s
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.o: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.o
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.o: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.o
 
 # target to build an object file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.o
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.i: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.i
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.i: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.i
 
 # target to preprocess a source file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.i
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.s: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.s
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.s: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.s
 
 # target to generate assembly for a file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.c.s
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.o: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.o
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.o: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.o
 
 # target to build an object file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.o
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.i: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.i
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.i: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.i
 
 # target to preprocess a source file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.i
 
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.s: Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.s
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.s: Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.s
 
 # target to generate assembly for a file
-Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s
-.PHONY : Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s
+Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s:
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(MAKE) $(MAKESILENT) -f lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/build.make lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s
+.PHONY : Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.c.s
 
 aes.o: aes.c.o
 .PHONY : aes.o
@@ -2609,15 +2609,15 @@ help:
 	@echo "... mbedcrypto"
 	@echo "... mbedtls"
 	@echo "... mbedx509"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.o"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.i"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.s"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.o"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.i"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.s"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.o"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.i"
-	@echo "... Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.s"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.o"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.i"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/Hacl_Curve25519_joined.s"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.o"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.i"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/everest.s"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.o"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.i"
+	@echo "... Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/library/x25519.s"
 	@echo "... aes.o"
 	@echo "... aes.i"
 	@echo "... aes.s"

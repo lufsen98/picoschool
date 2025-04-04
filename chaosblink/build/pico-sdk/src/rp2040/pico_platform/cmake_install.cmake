@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ludvignorin/ws/pico-sdk/src/rp2040/pico_platform
+# Install script for directory: /Users/ludvignorin/ws/libs/pico-sdk/src/rp2040/pico_platform
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

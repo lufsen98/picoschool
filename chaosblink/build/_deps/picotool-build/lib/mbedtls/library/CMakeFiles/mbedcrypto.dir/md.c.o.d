@@ -1,8 +1,8 @@
 lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/md.c.o: \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/md.c \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/md.c \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \
@@ -42,9 +42,9 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/md.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_intmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types.h \
@@ -63,16 +63,16 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/md.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_size_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_timespec.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md_internal.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md2.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md4.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md5.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ripemd160.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha1.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md_internal.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md2.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md4.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md5.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ripemd160.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha1.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_va_list.h \

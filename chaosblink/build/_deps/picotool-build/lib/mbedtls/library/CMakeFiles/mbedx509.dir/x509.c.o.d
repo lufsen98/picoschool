@@ -1,8 +1,8 @@
 lib/mbedtls/library/CMakeFiles/mbedx509.dir/x509.c.o: \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/x509.c \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/x509.c \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \
@@ -42,9 +42,9 @@ lib/mbedtls/library/CMakeFiles/mbedx509.dir/x509.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_intmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/x509.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/x509.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/asn1.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/Availability.h \
@@ -69,21 +69,21 @@ lib/mbedtls/library/CMakeFiles/mbedx509.dir/x509.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_ssize_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_clock_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_timespec.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/oid.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/cipher.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/error.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/oid.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/cipher.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/string.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_string.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_rsize_t.h \
@@ -91,8 +91,8 @@ lib/mbedtls/library/CMakeFiles/mbedx509.dir/x509.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_string.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pem.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pem.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdlib.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdlib.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/wait.h \
@@ -131,6 +131,6 @@ lib/mbedtls/library/CMakeFiles/mbedx509.dir/x509.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_abort.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/x509_crt.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/x509_crl.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/certs.h
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/x509_crt.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/x509_crl.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/certs.h

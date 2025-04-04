@@ -1,8 +1,8 @@
 lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_its_file.c.o: \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/psa_its_file.c \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/psa_its_file.c \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \
@@ -42,8 +42,8 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_its_file.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_intmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_types.h \
@@ -111,11 +111,11 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_its_file.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_abort.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/psa_crypto_its.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_types.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_platform.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_psa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_values.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/psa_crypto_its.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_types.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config_psa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_values.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/string.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_string.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_rsize_t.h \

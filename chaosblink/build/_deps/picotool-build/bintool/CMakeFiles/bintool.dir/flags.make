@@ -5,7 +5,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 C_DEFINES = -DHAS_MBEDTLS=1 -DNO_PICO_PLATFORM=1
 
-C_INCLUDES = -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool -I/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include -I/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/include -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors -isystem /Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include
+C_INCLUDES = -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool -I/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include -I/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/include -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors -isystem /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include
 
 C_FLAGSarm64 = -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/lib/include
 
@@ -13,7 +13,7 @@ C_FLAGS = -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools
 
 CXX_DEFINES = -DHAS_MBEDTLS=1 -DNO_PICO_PLATFORM=1
 
-CXX_INCLUDES = -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool -I/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include -I/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/3rdparty/everest/include -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors -isystem /Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include
+CXX_INCLUDES = -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool -I/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include -I/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/3rdparty/everest/include -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors -isystem /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include
 
 CXX_FLAGSarm64 = -O3 -DNDEBUG -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -I/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/lib/include
 

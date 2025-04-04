@@ -64,7 +64,7 @@ CMAKE_BINARY_DIR = /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/c
 include lib/mbedtls/CMakeFiles/apidoc.dir/compiler_depend.make
 
 lib/mbedtls/CMakeFiles/apidoc:
-	cd /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/doxygen && doxygen mbedtls.doxyfile
+	cd /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/doxygen && doxygen mbedtls.doxyfile
 
 lib/mbedtls/CMakeFiles/apidoc.dir/codegen:
 .PHONY : lib/mbedtls/CMakeFiles/apidoc.dir/codegen
@@ -82,6 +82,6 @@ lib/mbedtls/CMakeFiles/apidoc.dir/clean:
 .PHONY : lib/mbedtls/CMakeFiles/apidoc.dir/clean
 
 lib/mbedtls/CMakeFiles/apidoc.dir/depend:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src /Users/ludvignorin/ws/pico-sdk/lib/mbedtls /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/CMakeFiles/apidoc.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/CMakeFiles/apidoc.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : lib/mbedtls/CMakeFiles/apidoc.dir/depend
 

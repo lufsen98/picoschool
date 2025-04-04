@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/pkgconfig
+# Install script for directory: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/pkgconfig
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -989,34 +989,34 @@ CMakeFiles/picotool.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/regex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/set \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/iomanip \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
-  /Users/ludvignorin/ws/pico-sdk/src/host/pico_platform/include/pico/platform.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/host/pico_platform/include/pico/platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/stdbool.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdbool.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/addresses.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/bintool.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf_file.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/filesystem \
@@ -1040,19 +1040,19 @@ CMakeFiles/picotool.dir/main.cpp.o: \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/metadata.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/otp.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/forward_list \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/valarray \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors/errors.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/unistd.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_posix_vdisable.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/select.h \

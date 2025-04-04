@@ -21,22 +21,14 @@ bool blink_callback(struct repeating_timer * t) {
     gpio_put(led_lights[random_index],0);
     return 1;
 }
-
-
-
-
-
 int main() {
     int led_list_lenght = sizeof(led_lights)/sizeof(led_lights[0]);
     for(int i = 0; i < led_list_lenght; i++) {
         gpio_init(led_lights[i]);
         gpio_set_dir(led_lights[i], 1);
     }
-
-
    repeating_timer timer;
    add_repeating_timer_ms(10,blink_callback, nullptr, &timer);
-    
     while(true) {
         sleep_ms(100);
     }

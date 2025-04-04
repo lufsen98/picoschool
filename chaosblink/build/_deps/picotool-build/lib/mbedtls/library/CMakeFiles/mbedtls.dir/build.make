@@ -70,147 +70,147 @@ lib/mbedtls/library/CMakeFiles/mbedtls.dir/codegen:
 .PHONY : lib/mbedtls/library/CMakeFiles/mbedtls.dir/codegen
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/debug.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/debug.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.o -MF CMakeFiles/mbedtls.dir/debug.c.o.d -o CMakeFiles/mbedtls.dir/debug.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/debug.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.o -MF CMakeFiles/mbedtls.dir/debug.c.o.d -o CMakeFiles/mbedtls.dir/debug.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/debug.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/debug.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/debug.c > CMakeFiles/mbedtls.dir/debug.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/debug.c > CMakeFiles/mbedtls.dir/debug.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/debug.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/debug.c -o CMakeFiles/mbedtls.dir/debug.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/debug.c -o CMakeFiles/mbedtls.dir/debug.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/net_sockets.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/net_sockets.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.o -MF CMakeFiles/mbedtls.dir/net_sockets.c.o.d -o CMakeFiles/mbedtls.dir/net_sockets.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/net_sockets.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.o -MF CMakeFiles/mbedtls.dir/net_sockets.c.o.d -o CMakeFiles/mbedtls.dir/net_sockets.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/net_sockets.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/net_sockets.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/net_sockets.c > CMakeFiles/mbedtls.dir/net_sockets.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/net_sockets.c > CMakeFiles/mbedtls.dir/net_sockets.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/net_sockets.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/net_sockets.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/net_sockets.c -o CMakeFiles/mbedtls.dir/net_sockets.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/net_sockets.c -o CMakeFiles/mbedtls.dir/net_sockets.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cache.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cache.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.o -MF CMakeFiles/mbedtls.dir/ssl_cache.c.o.d -o CMakeFiles/mbedtls.dir/ssl_cache.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cache.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.o -MF CMakeFiles/mbedtls.dir/ssl_cache.c.o.d -o CMakeFiles/mbedtls.dir/ssl_cache.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cache.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_cache.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cache.c > CMakeFiles/mbedtls.dir/ssl_cache.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cache.c > CMakeFiles/mbedtls.dir/ssl_cache.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_cache.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cache.c -o CMakeFiles/mbedtls.dir/ssl_cache.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cache.c -o CMakeFiles/mbedtls.dir/ssl_cache.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o -MF CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o.d -o CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o -MF CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o.d -o CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c > CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c > CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c -o CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ciphersuites.c -o CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cli.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cli.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.o -MF CMakeFiles/mbedtls.dir/ssl_cli.c.o.d -o CMakeFiles/mbedtls.dir/ssl_cli.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cli.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.o -MF CMakeFiles/mbedtls.dir/ssl_cli.c.o.d -o CMakeFiles/mbedtls.dir/ssl_cli.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cli.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_cli.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cli.c > CMakeFiles/mbedtls.dir/ssl_cli.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cli.c > CMakeFiles/mbedtls.dir/ssl_cli.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cli.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_cli.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cli.c -o CMakeFiles/mbedtls.dir/ssl_cli.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cli.c -o CMakeFiles/mbedtls.dir/ssl_cli.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cookie.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cookie.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.o -MF CMakeFiles/mbedtls.dir/ssl_cookie.c.o.d -o CMakeFiles/mbedtls.dir/ssl_cookie.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cookie.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.o -MF CMakeFiles/mbedtls.dir/ssl_cookie.c.o.d -o CMakeFiles/mbedtls.dir/ssl_cookie.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cookie.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_cookie.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cookie.c > CMakeFiles/mbedtls.dir/ssl_cookie.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cookie.c > CMakeFiles/mbedtls.dir/ssl_cookie.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_cookie.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_cookie.c -o CMakeFiles/mbedtls.dir/ssl_cookie.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_cookie.c -o CMakeFiles/mbedtls.dir/ssl_cookie.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_msg.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_msg.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.o -MF CMakeFiles/mbedtls.dir/ssl_msg.c.o.d -o CMakeFiles/mbedtls.dir/ssl_msg.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_msg.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.o -MF CMakeFiles/mbedtls.dir/ssl_msg.c.o.d -o CMakeFiles/mbedtls.dir/ssl_msg.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_msg.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_msg.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_msg.c > CMakeFiles/mbedtls.dir/ssl_msg.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_msg.c > CMakeFiles/mbedtls.dir/ssl_msg.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_msg.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_msg.c -o CMakeFiles/mbedtls.dir/ssl_msg.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_msg.c -o CMakeFiles/mbedtls.dir/ssl_msg.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_srv.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_srv.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.o -MF CMakeFiles/mbedtls.dir/ssl_srv.c.o.d -o CMakeFiles/mbedtls.dir/ssl_srv.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_srv.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.o -MF CMakeFiles/mbedtls.dir/ssl_srv.c.o.d -o CMakeFiles/mbedtls.dir/ssl_srv.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_srv.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_srv.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_srv.c > CMakeFiles/mbedtls.dir/ssl_srv.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_srv.c > CMakeFiles/mbedtls.dir/ssl_srv.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_srv.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_srv.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_srv.c -o CMakeFiles/mbedtls.dir/ssl_srv.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_srv.c -o CMakeFiles/mbedtls.dir/ssl_srv.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ticket.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ticket.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.o -MF CMakeFiles/mbedtls.dir/ssl_ticket.c.o.d -o CMakeFiles/mbedtls.dir/ssl_ticket.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ticket.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.o -MF CMakeFiles/mbedtls.dir/ssl_ticket.c.o.d -o CMakeFiles/mbedtls.dir/ssl_ticket.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ticket.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_ticket.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ticket.c > CMakeFiles/mbedtls.dir/ssl_ticket.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ticket.c > CMakeFiles/mbedtls.dir/ssl_ticket.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_ticket.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_ticket.c -o CMakeFiles/mbedtls.dir/ssl_ticket.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_ticket.c -o CMakeFiles/mbedtls.dir/ssl_ticket.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.o -MF CMakeFiles/mbedtls.dir/ssl_tls.c.o.d -o CMakeFiles/mbedtls.dir/ssl_tls.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.o -MF CMakeFiles/mbedtls.dir/ssl_tls.c.o.d -o CMakeFiles/mbedtls.dir/ssl_tls.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_tls.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls.c > CMakeFiles/mbedtls.dir/ssl_tls.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls.c > CMakeFiles/mbedtls.dir/ssl_tls.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_tls.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls.c -o CMakeFiles/mbedtls.dir/ssl_tls.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls.c -o CMakeFiles/mbedtls.dir/ssl_tls.c.s
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/flags.make
-lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o: /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c
+lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o: /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o: lib/mbedtls/library/CMakeFiles/mbedtls.dir/compiler_depend.ts
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o -MF CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o.d -o CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o -c /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o -MF CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o.d -o CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.o -c /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.i"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c > CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.i
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c > CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.i
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.s"
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c -o CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.s
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library && /Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/ssl_tls13_keys.c -o CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.s
 
 # Object files for target mbedtls
 mbedtls_OBJECTS = \
@@ -254,6 +254,6 @@ lib/mbedtls/library/CMakeFiles/mbedtls.dir/clean:
 .PHONY : lib/mbedtls/library/CMakeFiles/mbedtls.dir/clean
 
 lib/mbedtls/library/CMakeFiles/mbedtls.dir/depend:
-	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library/CMakeFiles/mbedtls.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-build/lib/mbedtls/library/CMakeFiles/mbedtls.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : lib/mbedtls/library/CMakeFiles/mbedtls.dir/depend
 

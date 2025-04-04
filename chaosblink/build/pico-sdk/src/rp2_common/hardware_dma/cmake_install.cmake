@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ludvignorin/ws/pico-sdk/src/rp2_common/hardware_dma
+# Install script for directory: /Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/hardware_dma
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

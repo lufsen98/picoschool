@@ -1048,24 +1048,24 @@ bintool/CMakeFiles/bintool.dir/bintool.cpp.o
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf.h
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf_file.h
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors/errors.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/error.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h
- /Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/error.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h
+ /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h
 
 bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/mbedtls_wrapper.c
@@ -1182,20 +1182,20 @@ bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.o
  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/bintool/mbedtls_wrapper.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h
- /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h
+ /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h
 

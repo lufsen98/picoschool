@@ -996,5 +996,5 @@ elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf/elf_file.h
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/elf2uf2/elf2uf2.h
  /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/errors/errors.h
- /Users/ludvignorin/ws/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h
+ /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h
 

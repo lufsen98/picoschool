@@ -1,8 +1,8 @@
 lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_storage.c.o: \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \
@@ -102,39 +102,39 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_storage.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_common.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_string.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_platform.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config_psa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_types.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_values.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_sizes.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_struct.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/cmac.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/cipher.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config_psa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_types.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_values.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_sizes.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_struct.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/cmac.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/cipher.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_time.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_clock_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_timespec.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/gcm.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_driver_contexts_primitives.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_driver_common.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_primitives.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md2.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md4.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md5.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ripemd160.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha1.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_driver_contexts_composites.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_composites.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_extra.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_compat.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/gcm.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_driver_contexts_primitives.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_driver_common.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_primitives.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md2.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md4.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md5.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ripemd160.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha1.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_driver_contexts_composites.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_builtin_composites.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_extra.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_compat.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_va_list.h \
@@ -144,7 +144,7 @@ lib/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_storage.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_ctermid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_off_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_stdio.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/psa_crypto_storage.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/psa/crypto_se_driver.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/library/psa_crypto_its.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform.h
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/psa_crypto_storage.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/psa/crypto_se_driver.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/library/psa_crypto_its.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform.h

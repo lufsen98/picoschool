@@ -3067,36 +3067,36 @@ CMakeFiles/picotool.dir/main.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedded
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/otp.h \
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
-  /Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
-  /Users/ludvignorin/ws/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
-  /Users/ludvignorin/ws/pico-sdk/src/host/pico_platform/include/pico/platform.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
-  /Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/host/pico_platform/include/pico/platform.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
+  /Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h
 
 CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/no_otp.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/Availability.h \
@@ -4080,33 +4080,29 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
   /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/otp.h
 
 
-/Users/ludvignorin/ws/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h:
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h:
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h:
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/host/pico_platform/include/pico/platform.h:
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/common/boot_uf2_headers/include/boot/uf2.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha512.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/rsa.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/config.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/check_config.h:
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
 
 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp:
 
@@ -4181,8 +4177,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__numeric/accumulate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__filesystem/perms.h:
 
@@ -4470,8 +4464,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/mach/machine/_structs.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/locale.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/libkern/_OSByteOrder.h:
@@ -4485,8 +4477,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/string:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/stdlib.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/pk.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__math/trigonometric_functions.h:
 
@@ -4513,8 +4503,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_copy_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/initializer_list:
-
-/Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/search.h:
 
@@ -4604,6 +4592,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_contains.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/result_of.h:
@@ -4648,6 +4638,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_trivially_copy_constructible.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/tuple:
@@ -4689,8 +4681,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_nothrow_destructible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/malloc/_malloc.h:
-
-/Users/ludvignorin/ws/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
 
@@ -4820,8 +4810,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/conditional.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/aes.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/pstl_for_each.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_next_permutation.h:
@@ -4904,6 +4892,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__random/uniform_random_bit_generator.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/config.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/machine/limits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
@@ -4956,6 +4946,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/format_arg_store.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
@@ -4969,6 +4961,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/set:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/temp_value.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__math/error_functions.h:
 
@@ -4997,8 +4991,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/mach/boolean.h:
 
@@ -5036,6 +5028,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__system_error/error_condition.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__memory/align.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__mbstate_t.h:
@@ -5053,8 +5047,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/xlocale.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__math/inverse_trigonometric_functions.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecdsa.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_min.h:
 
@@ -5125,6 +5117,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/move.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__iterator/mergeable.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_enum.h:
 
@@ -5199,6 +5193,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/find_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__iterator/cpp17_iterator_concepts.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/src/rp2350/hardware_regs/include/hardware/platform_defs.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/for_each_segment.h:
 
@@ -5307,8 +5303,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__functional/identity.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__functional/hash.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/sha256.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_scoped_enum.h:
 
@@ -5522,8 +5516,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/entropy.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/cxx_atomic_impl.h:
@@ -5598,6 +5590,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/stable_partition.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/src/host/pico_platform/include/pico/platform.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__functional/bind.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
@@ -5613,6 +5607,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/typeinfo:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/shift_left.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__functional/is_transparent.h:
 
@@ -5642,19 +5638,17 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_upper_bound.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_starts_with.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/buffer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ecp.h:
-
 /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src/main.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__atomic/fence.h:
-
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/ctr_drbg.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_sort.h:
 
@@ -5720,6 +5714,10 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__bit/endian.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/version.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/ratio:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/max_element.h:
@@ -5763,8 +5761,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_partition_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_partition.h:
-
-/Users/ludvignorin/ws/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_push_heap.h:
 
@@ -5870,8 +5866,6 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_partial_sort.h:
 
-/Users/ludvignorin/ws/pico-sdk/src/common/boot_picobin_headers/include/boot/picobin.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_find_end.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
@@ -5893,6 +5887,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_none_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_ends_with.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__iterator/common_iterator.h:
 
@@ -5942,11 +5938,11 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
 
-/Users/ludvignorin/ws/pico-sdk/lib/mbedtls/include/mbedtls/bignum.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__concepts/invocable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_signed.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/platform_util.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/ranges_minmax.h:
 
@@ -5990,6 +5986,8 @@ CMakeFiles/picotool.dir/no_otp.cpp.o: /Users/ludvignorin/ws/edu-ws/school/embedd
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/lib/mbedtls/include/mbedtls/md.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
 
 data_locs.cpp:
@@ -6032,6 +6030,8 @@ data_locs.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
 
+/Users/ludvignorin/ws/libs/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/copy_backward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_trivially_default_constructible.h:
@@ -6063,6 +6063,8 @@ data_locs.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/unistd.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/make_projected.h:
+
+/Users/ludvignorin/ws/libs/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/cctype:
 
@@ -6279,8 +6281,6 @@ data_locs.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__type_traits/is_fundamental.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__algorithm/min_max_result.h:
-
-/Users/ludvignorin/ws/pico-sdk/src/common/boot_picoboot_headers/include/boot/picoboot.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_ctermid.h:
 
