@@ -9,17 +9,21 @@
 int main() {
     stdio_init_all();
     sleep_ms(1000);
-    uint32_t led_mask = (1 << NUMBER_OF_LEDS) - 1;
+	auto rand = get_rand_32();
+
+    uint32_t led_mask = (1 << NUMBER_OF_LEDS) -1;
     printf("%b\n",led_mask);
+
     uint32_t mask_offset = led_mask << START_PIN;
     printf("%b\n",mask_offset);
-    // 0b1111111111000000
+
     gpio_init_mask(mask_offset);
     gpio_set_dir_masked(mask_offset,mask_offset);
 
 
     while (true) {
-        gpio_put_masked(mask_offset,mask_offset >> (get_rand_32()%11));
+		rand = get_rand_32();
+        gpio_put_masked(mask_offset,rand << START_PIN);
         sleep_ms(100);
     }
 }
