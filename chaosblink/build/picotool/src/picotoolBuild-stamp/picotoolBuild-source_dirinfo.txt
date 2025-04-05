@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool-src
+source_dir=/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/_deps/picotool-src
 work_dir=
 

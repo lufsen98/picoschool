@@ -1,5 +1,5 @@
-/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool/picotool
-/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool/picotoolTargets.cmake
-/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool/picotoolTargets-release.cmake
-/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool/picotoolConfig.cmake
-/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/_deps/picotool/picotool
+/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/_deps/picotool/picotoolTargets.cmake
+/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/_deps/picotool/picotoolTargets-release.cmake
+/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/_deps/picotool/picotoolConfig.cmake
+/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/_deps/picotool/picotoolConfigVersion.cmake

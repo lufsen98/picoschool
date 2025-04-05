@@ -12,6 +12,7 @@ int main() {
 	auto rand = get_rand_32();
 
     uint32_t led_mask = (1 << NUMBER_OF_LEDS) -1;
+
     printf("%b\n",led_mask);
 
     uint32_t mask_offset = led_mask << START_PIN;
@@ -22,9 +23,12 @@ int main() {
 
 
     while (true) {
-		rand = get_rand_32();
-        gpio_put_masked(mask_offset,rand << START_PIN);
+		rand = get_rand_32()%11;
+        gpio_put(rand,1);
         sleep_ms(100);
+		rand = get_rand_32()%11;
+		gpio_put(rand,0);
+		sleep_ms(100);
     }
 }
 

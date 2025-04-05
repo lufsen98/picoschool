@@ -1,4 +1,4 @@
-prefix=/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/_deps
+prefix=/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/_deps
 includedir=${prefix}/include
 libdir=${prefix}/lib
 

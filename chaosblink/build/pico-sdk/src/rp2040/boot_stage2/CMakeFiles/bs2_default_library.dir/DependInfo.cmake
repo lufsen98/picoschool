@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_ASM
-  "/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S" "/Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
+  "/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S" "/home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.o"
   )
 set(CMAKE_ASM_COMPILER_ID "GNU")
 

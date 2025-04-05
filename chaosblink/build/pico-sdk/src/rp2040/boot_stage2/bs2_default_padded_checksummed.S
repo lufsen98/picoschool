@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /Users/ludvignorin/ws/edu-ws/school/embedded_edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /home/ludvig/ws/edu-ws/embedded-edu/picoschool/chaosblink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb
